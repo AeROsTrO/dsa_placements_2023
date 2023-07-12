@@ -1,0 +1,1 @@
+{"name":"Local: longestCommonSubsequence","url":"d:\\placementPrep\\blind75\\2dDp\\longestCommonSubsequence.cpp","tests":[{"id":1688807660237,"input":"abcde\nace","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\placementPrep\\blind75\\2dDp\\longestCommonSubsequence.cpp","group":"local","local":true}

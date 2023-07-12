@@ -1,0 +1,1 @@
+{"name":"Local: spiralMatrix","url":"d:\\placementPrep\\blind75\\mathAndGeometry\\spiralMatrix.cpp","tests":[{"id":1688034413350,"input":"3 3\n1 2 3\n4 5 6\n7 8 9","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\placementPrep\\blind75\\mathAndGeometry\\spiralMatrix.cpp","group":"local","local":true}

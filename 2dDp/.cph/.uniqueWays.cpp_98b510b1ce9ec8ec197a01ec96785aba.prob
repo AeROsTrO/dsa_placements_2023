@@ -1,0 +1,1 @@
+{"name":"Local: uniqueWays","url":"d:\\placementPrep\\blind75\\2dDp\\uniqueWays.cpp","tests":[{"id":1688724396853,"input":"3 7","output":""},{"id":1688724403033,"input":"3 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\placementPrep\\blind75\\2dDp\\uniqueWays.cpp","group":"local","local":true}

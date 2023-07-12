@@ -1,0 +1,1 @@
+{"name":"Local: reorderList","url":"d:\\placementPrep\\blind75\\linkedLists\\reorderList.cpp","tests":[{"id":1689002582504,"input":"6\n1 2 3 4 5 6","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\placementPrep\\blind75\\linkedLists\\reorderList.cpp","group":"local","local":true}

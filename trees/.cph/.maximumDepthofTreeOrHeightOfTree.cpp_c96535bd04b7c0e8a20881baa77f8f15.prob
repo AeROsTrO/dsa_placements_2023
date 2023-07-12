@@ -1,0 +1,1 @@
+{"name":"Local: maximumDepthofTreeOrHeightOfTree","url":"d:\\placementPrep\\blind75\\trees\\maximumDepthofTreeOrHeightOfTree.cpp","tests":[{"id":1689062145576,"input":"6\n6 7 5 4 3 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\placementPrep\\blind75\\trees\\maximumDepthofTreeOrHeightOfTree.cpp","group":"local","local":true}

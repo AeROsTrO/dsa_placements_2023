@@ -1,0 +1,1 @@
+{"name":"Local: wordSearchII","url":"d:\\placementPrep\\blind75\\tries\\wordSearchII.cpp","tests":[{"id":1688286202730,"input":"4 4\no a a n\ne t a e\ni h k r\ni f l v\n4\noath\npea\neat\nrain","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\placementPrep\\blind75\\tries\\wordSearchII.cpp","group":"local","local":true}
